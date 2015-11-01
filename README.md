@@ -28,5 +28,6 @@ See 'git help config' and search for 'push.default' for further information.
 
 # Steps to update
 1. Make the changes
-2. git commit -a
-3. git push
+2. git add *
+3. git commit -a
+4. git push
