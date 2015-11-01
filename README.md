@@ -2,10 +2,7 @@
 # This is my first project on GitHub, oh yeah!
 @Author: Shijie Zhao, @Nov,01,2015, @Cambridge
 
-# Command to pull things from my git:
 git pull https://github.com/shijiezhao/SVM
-
-# Command to push to my git:
 git push --set-upstream origin master
 
 warning: push.default is unset; its implicit value has changed in
@@ -28,3 +25,8 @@ remote branch that 'git pull' uses to update the current branch.
 See 'git help config' and search for 'push.default' for further information.
 (the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
 'current' instead of 'simple' if you sometimes use older versions of Git)
+
+# Steps to update
+1. Make the changes
+2. git commit -a
+3. git push
